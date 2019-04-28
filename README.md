@@ -4,7 +4,7 @@ You need to delete the previous files and download the new version. (See #Instal
 
 What's new ?
 - Changed the method of deleting the models
-- Now comatible with Props Hospital by All_sor https://forum.fivem.net/t/release-hospital-props/151753 
+- Now compatible with Props Hospital by All_sor https://forum.fivem.net/t/release-hospital-props/151753 
 The hospital came without any operation room or office, you can now use ymaps that need modified hospital props 
 - better access to the elevator
 - fixed crashes
